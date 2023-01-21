@@ -1,0 +1,17 @@
+{
+    "blogs": [ 
+    {
+        "title": "My First Blog",
+        "body": "Where do I begin...Well, hello! My name is Taylor Richardson and welcome to my very first blog build. I am a Front-Web Developer. Or at least striving to be lol. My Journey started back in 2017 when in my last semester of college, I took a digital studies course. A portion of that course required me to make my own website with Codecademy. The site was hideous. Absolutely wretched. But I had a really great time learning to code. I had inititally been told to steer clear of any CS courses out of peer pressure. Funny enough though, I love it, I just discovered my interest late! But, fast forward to 2018 when I decided to revist Codecademy. I started learning HTML, CSS, and Javascript. Since then, I have been trying to nail down the skills that could get me a job doing something I have a genuine interest in. Which brings me to learning React. Just before getting this JSON file to work for my blog entries I was stuck trying to figure out why my fetch request was not working. It had me stumped for at least a week. Stack Overflow and countless Google searches, I come to the realization that I have put a 'body' where I need a 'blogs' in my opening JSON file. The point of all of this is to document my rage-no I am kidding. But, I think it does highlight how persistent I can be when it comes to something I have a love and interest for. Anyway. I think we should call it a day for this post lol. We'll see what other functionality I can add to this blog as I continue learning React. Thanks for reading -Taylor",
+        "author": "Taylor",
+        "date": "Jan 21, 2023",
+        "id": 1
+    },
+    {
+        "title": "Reactions",
+        "body": "Learning React is Going Well",
+        "author": "Taylor",
+        "id": 2
+    }
+  ]
+}
