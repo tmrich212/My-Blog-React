@@ -95,3 +95,37 @@
 .blog-details .author {
   text-decoration: underline;
 } 
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid white;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background-color: whitesmoke;
+  border-radius: 6px;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
